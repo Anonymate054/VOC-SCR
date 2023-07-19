@@ -48,9 +48,9 @@
     <ol>
         <li>Open the <code>main.py</code> file in your preferred Python environment.</li>
         <li>Replace the <code>HOME_URL</code> list with the URLs of the webpage with the list of vocabulary you want to scrape.</li>
-        <li>Run the scraper:</li>
+        <li>Run the scraper on jupyter notebook:</li>
     </ol>
-    <pre><div class="bg-black rounded-md mb-4"><div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans justify-between rounded-t-md"></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-bash">python main.py
+    <pre><div class="bg-black rounded-md mb-4"><div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans justify-between rounded-t-md"></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-bash">code Scraper_Voc.ipynb
 </code></div></div></pre>
     <ol start="5">
         <li>The scraper will retrieve the lists of data from the provided web pages and save the results to a file named
