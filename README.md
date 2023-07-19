@@ -1,5 +1,5 @@
 <div class="markdown prose w-full break-words dark:prose-invert light">
-    <h1>Web Scraper for List Retrieval using Python</h1>
+    <h1>Web Scraper for List Retrieval vocabulary list using Python</h1>
     <p><img src="https://img.shields.io/badge/Python-3.9%2B-blue" alt="Python">
         <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
     </p>
